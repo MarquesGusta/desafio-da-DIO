@@ -1,0 +1,8 @@
+var nomeDoCliente = "Pedro"
+console.log("Olá Pedro")
+var idade = 17
+if(idade >= 18){
+ console.log("Você já tem idade suficiente para dirigir.")
+}else{
+ console.log("Você não possui idade suficiente para dirigir, espere mais um pouco.)
+}
